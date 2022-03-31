@@ -21,4 +21,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\calculator-sharp\calculator-sharp.csproj" />
+  </ItemGroup>
+
 </Project>
